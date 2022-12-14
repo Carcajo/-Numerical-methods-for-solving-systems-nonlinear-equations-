@@ -1,3 +1,4 @@
+#iteration method for solving the problem
 from sympy import symbols
 import numpy as np
 from staff_matrix import get_jacobi, roots_to_dict
