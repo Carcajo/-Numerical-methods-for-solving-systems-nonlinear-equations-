@@ -1,3 +1,4 @@
+#Newton's method via the Jacobi method for nonlinear equations
 import numpy as np
 from sympy import symbols, core, exp
 
