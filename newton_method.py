@@ -1,3 +1,4 @@
+#Newton's method via the Jacobi method
 import numpy as np
 from sympy import symbols
 from staff_matrix import get_jacobi, roots_to_dict
